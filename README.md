@@ -4,7 +4,7 @@
 ### 💻 Software Developer | CSE Student | Data Science Learner
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" />
 </p>
 
 ---
@@ -24,10 +24,10 @@ Most of my projects follow **SDLC principles**, proper documentation, and clean 
 A complete desktop app that manages customer billing, payments, meter info and more.
 Includes **customer panel**, **admin panel**, and multiple modules like CalculateBill, NewCustomer, PayBill, Signup, etc.
 
-🔗 **Repo:** *Add your repo link here*
+🔗 **Repo:** *[Click here..!](https://github.com/Abtahi360/Electricity_Billing_System)*
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Urc6C6O5QhQECw06yj/giphy.gif" width="300">
+  <img src="https://github.com/user-attachments/assets/81e69764-5ce8-4016-9916-34766a6fdfba" width="300">
 </p>
 
 ---
@@ -38,10 +38,10 @@ A bookshop application with **Admin Panel** + **User Panel**, with text-file bas
 Users can add books to cart, checkout via Bkash/Bank.
 Admins can manage users, orders, and books.
 
-🔗 **Repo:** *Add your repo link here*
+🔗 **Repo:** *[Click Here..!](https://github.com/Abtahi360/Boi_Jatra)*
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
+  <img src="https://github.com/user-attachments/assets/24450b06-42ae-40de-b275-a4883d12986c" width="700">
 </p>
 
 ---
@@ -54,10 +54,10 @@ A fully functional stopwatch with:
 ✔ History tracking
 ✔ Milliseconds accuracy
 
-🔗 **Repo:** *Add your repo link here*
+🔗 **Repo:** *[Click Here..!](https://github.com/Abtahi360/Stopwatch_Timer)*
 
-<p>
-  <img src="https://media.giphy.com/media/j5hC1epIYWYAJfHQ4K/giphy.gif" width="300">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2bde3afa-2f83-4155-97e8-cab941daed2e" width="700">
 </p>
 
 ---
