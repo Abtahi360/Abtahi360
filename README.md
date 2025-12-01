@@ -27,7 +27,7 @@ Includes **customer panel**, **admin panel**, and multiple modules like Calculat
 🔗 **Repo:** *[Click here..!](https://github.com/Abtahi360/Electricity_Billing_System)*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/81e69764-5ce8-4016-9916-34766a6fdfba" width="300">
+  <img src="https://github.com/user-attachments/assets/81e69764-5ce8-4016-9916-34766a6fdfba" width="600">
 </p>
 
 ---
@@ -41,7 +41,7 @@ Admins can manage users, orders, and books.
 🔗 **Repo:** *[Click Here..!](https://github.com/Abtahi360/Boi_Jatra)*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/24450b06-42ae-40de-b275-a4883d12986c" width="700">
+  <img src="https://github.com/user-attachments/assets/24450b06-42ae-40de-b275-a4883d12986c" width="600">
 </p>
 
 ---
@@ -57,7 +57,7 @@ A fully functional stopwatch with:
 🔗 **Repo:** *[Click Here..!](https://github.com/Abtahi360/Stopwatch_Timer)*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2bde3afa-2f83-4155-97e8-cab941daed2e" width="700">
+  <img src="https://github.com/user-attachments/assets/2bde3afa-2f83-4155-97e8-cab941daed2e" width="600">
 </p>
 
 ---
