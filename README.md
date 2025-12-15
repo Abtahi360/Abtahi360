@@ -156,7 +156,7 @@ A playful string-based compatibility calculator built for learning.
 # 🌟 Let's Connect
 
 <p>
-<a href="https://www.linkedin.com/in/your-profile/">
+<a href="https://www.linkedin.com/in/abtahi-islam/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:23-50434-1@student.aiub.edu">
