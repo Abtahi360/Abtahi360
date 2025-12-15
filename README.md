@@ -66,7 +66,7 @@ A fully functional stopwatch with:
 
 Implements matrix addition, transpose, multiplication, linear search, and file handling.
 
-🔗 **Repo:** *Add your repo link here*
+🔗 **Repo:** *[Click Here..!](https://github.com/Abtahi360/MatrixOperations)*
 
 ---
 
@@ -118,7 +118,7 @@ Includes activity diagrams, process flows, and requirement analysis.
 
 A fun text-based adventure game where players make choices to find treasure.
 
-🔗 **Repo:** *Add your repo link here*
+🔗 **Repo:** *[Click Here..!](https://github.com/Abtahi360/Treasure-Island-Adventure-Game)*
 
 ---
 
@@ -126,7 +126,7 @@ A fun text-based adventure game where players make choices to find treasure.
 
 A playful string-based compatibility calculator built for learning.
 
-🔗 **Repo:** *Add your repo link here*
+🔗 **Repo:** *[Click Here..!](https://github.com/Abtahi360/Love_Calculator)*
 
 ---
 
