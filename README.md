@@ -11,9 +11,9 @@
 
 ## 🚀 About Me
 
-I love building software, solving real problems, and learning new technologies.
-I work with **Java, Python, C#, C++, Spring Boot, Data Science**, and more.
-Most of my projects follow **SDLC principles**, proper documentation, and clean design.
+I’m an undergraduate CSE student at American International University-Bangladesh and a software developer specializing in Spring Boot–based backend systems and ML prototypes, with hands-on experience in C++, C#, Python, MATLAB, and LaTeX. I enjoy building scalable APIs, clean web applications, and reproducible research projects.
+
+You can explore my work here: [Visit My Portfolio]([https://www.google.com](https://abtahiislam.netlify.app))
 
 ---
 
