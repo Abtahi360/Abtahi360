@@ -13,7 +13,7 @@
 
 I’m an undergraduate CSE student at American International University-Bangladesh and a software developer specializing in Spring Boot–based backend systems and ML prototypes, with hands-on experience in C++, C#, Python, MATLAB, and LaTeX. I enjoy building scalable APIs, clean web applications, and reproducible research projects.
 
-You can explore my work here: [Visit My Portfolio]([https://www.google.com](https://abtahiislam.netlify.app))
+You can explore my work here: https://abtahiislam.netlify.app
 
 ---
 
