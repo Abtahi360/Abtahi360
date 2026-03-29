@@ -50,16 +50,6 @@ If you only check a few repos, these show my “core themes” best:
 
 * **Bootcamp-with-Spring-by-Abtahi** | Spring Boot 3, Spring 6, and Hibernate practice projects with REST, security, JPA, and MVC.
   [https://github.com/Abtahi360/Bootcamp-with-Spring-by-Abtahi](https://github.com/Abtahi360/Bootcamp-with-Spring-by-Abtahi)
-* **Electricity_Billing_System** | Desktop billing system with customer/admin panels and billing modules.
-  [https://github.com/Abtahi360/Electricity_Billing_System](https://github.com/Abtahi360/Electricity_Billing_System)
-* **Boi_Jatra** | Bookstore management system with cart, checkout, and admin/user workflows.
-  [https://github.com/Abtahi360/Boi_Jatra](https://github.com/Abtahi360/Boi_Jatra)
-* **Stopwatch_Timer** | C# stopwatch app with pause, reset, history, and dark/light mode.
-  [https://github.com/Abtahi360/Stopwatch_Timer](https://github.com/Abtahi360/Stopwatch_Timer)
-* **A-Comparative-Study-of-Keras-Models-for-Brain-Tumor-MRI-Segmentation** | Deep learning comparison for brain tumor MRI classification.
-  [https://github.com/Abtahi360/A-Comparative-Study-of-Keras-Models-for-Brain-Tumor-MRI-Segmentation](https://github.com/Abtahi360/A-Comparative-Study-of-Keras-Models-for-Brain-Tumor-MRI-Segmentation)
-* **portfolio-website** | Personal portfolio site showcasing projects, certifications, and resume.
-  [https://github.com/Abtahi360/portfolio-website](https://github.com/Abtahi360/portfolio-website)
 
 ---
 
