@@ -34,11 +34,12 @@
 </p>
 
 <p align="center">
-  <img alt="github stats" height="210px" src="https://github-readme-stats.vercel.app/api?username=Abtahi360&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abtahi360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abtahi360&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abtahi360&layout=compact&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abtahi360&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
