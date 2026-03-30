@@ -34,8 +34,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abtahi360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abtahi360&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abtahi360&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abtahi360&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
