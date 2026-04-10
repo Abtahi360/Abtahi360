@@ -153,6 +153,8 @@ Top picks:
   [https://github.com/Abtahi360/Cat-vs-Dog-Image-Classification-using-Convolutional-Neural-Network-CNN](https://github.com/Abtahi360/Cat-vs-Dog-Image-Classification-using-Convolutional-Neural-Network-CNN)
 * **learning-r-for-data-science** | Data science practice tasks using R.
   [https://github.com/Abtahi360/learning-r-for-data-science](https://github.com/Abtahi360/learning-r-for-data-science)
+* **Trigram-Language-Model-with-Story-Generation** | building a trigram-based text generator without using any built-in n-gram libraries.
+  [https://github.com/Abtahi360/Trigram-Language-Model-with-Story-Generation](https://github.com/Abtahi360/Trigram-Language-Model-with-Story-Generation)
 
 <details>
   <summary><b>More in this cluster</b></summary>
