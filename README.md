@@ -33,13 +33,14 @@
   <img src="https://img.shields.io/badge/LaTeX-111?style=flat-square&logo=latex&logoColor=white" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abtahi360&show_icons=true&theme=tokyonight&cache_seconds=0&count_private=true" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abtahi360&layout=compact&theme=tokyonight&cache_seconds=0&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abtahi360&show_icons=true&theme=tokyonight&cache_seconds=0&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abtahi360&layout=compact&theme=tokyonight&cache_seconds=0&count_private=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abtahi360&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Abtahi360&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
