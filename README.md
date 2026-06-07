@@ -1,242 +1,260 @@
-<h1 align="center">Abtahi Islam</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abtahi+Islam+%F0%9F%91%8B;CSE+Student+%40+AIUB;Backend+%7C+AI+%7C+Full-Stack+Builder" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <b>Software Developer • CSE Student • Data Science Learner</b><br/>
-  I build <b>scalable backend systems</b>, <b>clean web applications</b>, and <b>reproducible ML prototypes</b>.
+  <b>Software Developer&nbsp;•&nbsp;CSE Student&nbsp;•&nbsp;AI & Data Science Enthusiast</b><br/>
+  I build <b>AI-powered systems</b>, <b>scalable backend applications</b>, and <b>clean full-stack solutions</b><br/>
+  that solve real problems from agricultural chatbots to enterprise billing software.
 </p>
 
 <p align="center">
   <a href="https://abtahiislam.netlify.app">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat&logo=vercel&logoColor=white">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-abtahiislam.netlify.app-111111?style=flat&logo=vercel&logoColor=white">
   </a>
   <a href="https://github.com/Abtahi360?tab=repositories">
-    <img alt="Repositories" src="https://img.shields.io/badge/All%20Repositories-View-green?style=flat&logo=github&logoColor=black">
+    <img alt="Repositories" src="https://img.shields.io/badge/All%20Repositories-View-238636?style=flat&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/abtahi-islam/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-abtahi--islam-0A66C2?style=flat&logo=linkedin">
   </a>
   <a href="mailto:23-50434-1@student.aiub.edu">
-    <img alt="Email" src="https://img.shields.io/badge/23-50434-1@student.aiub.edu-gray?style=flat&logo=gmail&logoColor=red">
+    <img alt="Email" src="https://img.shields.io/badge/Email-23--50434--1%40student.aiub.edu-EA4335?style=flat&logo=gmail&logoColor=white">
   </a>
-  <img alt="Followers" src="https://img.shields.io/github/followers/Abtahi360?style=flat&logo=github&logoColor=black">
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Abtahi360/Abtahi360?style=flat&logo=github&logoColor=black">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-111?style=flat-square&logo=coffeescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-111?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-111?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-111?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-111?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-111?style=flat-square&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-111?style=flat-square&logo=latex&logoColor=white" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/Abtahi360?style=flat&logo=github&logoColor=white&color=238636">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Abtahi360/Abtahi360?style=flat&logo=github&logoColor=white">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Abtahi360&style=flat&color=58A6FF">
 </p>
 
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abtahi360&show_icons=true&theme=tokyonight&cache_seconds=0&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abtahi360&layout=compact&theme=tokyonight&cache_seconds=0&count_private=true" height="160"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abtahi360&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BERT-FFB300?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00BFFF?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## Start here
+## 📊 GitHub Stats
 
-If you only check a few repos, these show my “core themes” best:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abtahi360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abtahi360&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+</p>
 
-* **Bootcamp-with-Spring-by-Abtahi** | Spring Boot 3, Spring 6, and Hibernate practice projects with REST, security, JPA, and MVC.
-  [https://github.com/Abtahi360/Bootcamp-with-Spring-by-Abtahi](https://github.com/Abtahi360/Bootcamp-with-Spring-by-Abtahi)
-
----
-
-## What I do
-
-* Build practical software with **backend-first thinking**: APIs, database-driven applications, and maintainable project structure.
-* Work across:
-
-  * **Spring Boot & enterprise-style backend systems**
-  * **Desktop applications** with Java Swing and C#
-  * **Data science and ML prototypes** in Python and MATLAB
-  * **Research-oriented projects** with reporting, analysis, and reproducibility
-  * **Web development and portfolio work** using HTML, CSS, JavaScript, and PHP
-
-**Open to**: software development opportunities, backend roles, and project collaborations in web, desktop, and data-driven applications.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abtahi360&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
-## Tech snapshot
+## 🚀 Featured Projects
 
-* **Languages:** Java, Python, C++, C#, JavaScript, MATLAB, SQL
-* **Backend:** Spring Boot, REST APIs, Hibernate, JPA, MVC, Security
-* **Desktop Apps:** Java Swing, WinForms
-* **Data/ML:** TensorFlow, Keras, data analysis, statistics, SPSS
-* **Web:** HTML, CSS, JavaScript, PHP
-* **Tools:** MySQL, LaTeX, Git, GitHub
+> Projects that best represent my depth, range, and engineering mindset.
 
 ---
 
-## Navigation
+### 🌾 AgriBot v4 - AI Agricultural Assistant *(NLP Final Project)*
+> **Full-stack AI chatbot** for crop recommendation, disease detection, fertilizer guidance, and weather-aware advisory.
 
-* [Spring Boot, Backend & Enterprise Apps](#spring-boot-backend--enterprise-apps)
-* [Desktop Apps & Productivity Tools](#desktop-apps--productivity-tools)
-* [Data Science, ML & Research Work](#data-science-ml--research-work)
-* [Python Games & Fun Projects](#python-games--fun-projects)
-* [Web Development & Portfolio](#web-development--portfolio)
-* [Computer Vision & Deep Learning](#computer-vision--deep-learning)
-* [Networking, Logic & Systems Practice](#networking-logic--systems-practice)
+Built end-to-end with a multi-model AI pipeline and deployed on **Hugging Face Spaces**.
+
+| Component | Technology |
+|---|---|
+| Crop Recommendation | XGBoost (multi-soil aggregation, high accuracy) |
+| Fertilizer Classification | XGBoost (fixed label alignment) |
+| Disease Detection | EfficientNetB0 + YOLOv8n (image pipeline) |
+| Intent Recognition | BERT (fine-tuned transformer) |
+| Weather Integration | OpenWeatherMap API (real-time) |
+| Reasoning Engine | Rule-based logic layer |
+
+🔗 [View on Hugging Face Spaces](https://huggingface.co/) &nbsp;|&nbsp; 📁 [GitHub Repository](https://github.com/Abtahi360)
 
 ---
 
-## Spring Boot, Backend & Enterprise Apps
+### 🛒 Web Technologies Project - PHP MVC E-Commerce System *(CSE 4101)*
+> A **full-stack web application** built with PHP MVC architecture, MySQL, and AJAX-driven navigation.
 
-> Building structured backend systems with clear layers, reusable logic, and real CRUD workflows.
+- **My Role:** Authentication system, profile management, home page, AJAX category navigation (Task 1)
+- **Stack:** PHP (MVC), MySQL, Vanilla JavaScript, AJAX, HTML/CSS
+- **Pattern:** Clean separation of Model–View–Controller layers, secure session handling
 
-Top picks:
+📁 [GitHub Repository](https://github.com/Abtahi360/learning-web-technologies-spring2025-2026-sec-a)
 
-* **Bootcamp-with-Spring-by-Abtahi** | Hands-on Spring Boot 3, Spring 6, and Hibernate practice.
-  [https://github.com/Abtahi360/Bootcamp-with-Spring-by-Abtahi](https://github.com/Abtahi360/Bootcamp-with-Spring-by-Abtahi)
-* **Spring Boot Practice** | REST APIs, JPA, Thymeleaf, security, AOP, and CRUD learning projects.
-  [https://github.com/Abtahi360/Bootcamp-with-Spring-by-Abtahi](https://github.com/Abtahi360/Bootcamp-with-Spring-by-Abtahi)
-* **Electricity_Billing_System** | Customer and admin panels with billing and payment modules.
-  [https://github.com/Abtahi360/Electricity_Billing_System](https://github.com/Abtahi360/Electricity_Billing_System)
+---
+
+### 🎓 Presento - AI-Powered Presentation Skill Assessment
+> **Multimodal AI system** that evaluates presentation delivery using audio, visual, and linguistic cues.
+
+A research-grade AI assessment platform combining multiple modalities to give structured feedback on presentation skills.
+
+📁 [GitHub Repository](https://github.com/Abtahi360/Presento-AI-Powered-Multimodal-Presentation-Skill-Assessment)
+
+---
+
+### 🧠 Brain Tumor MRI Segmentation - Comparative Deep Learning Study
+> Benchmarked **multiple pretrained Keras models** (VGG16, ResNet, EfficientNet) on medical image segmentation using transfer learning.
+
+Structured as a rigorous comparative study with training curves, metrics, and reproducible pipelines.
+
+📁 [GitHub Repository](https://github.com/Abtahi360/A-Comparative-Study-of-Keras-Models-for-Brain-Tumor-MRI-Segmentation)
+
+---
+
+### ⚡ Electricity Billing System - Java Desktop Application
+> Enterprise-style **billing management system** with customer and admin panels, payment tracking, and report generation.
+
+Built with Java Swing, demonstrating clean separation of concerns and real-world desktop UX.
+
+📁 [GitHub Repository](https://github.com/Abtahi360/Electricity_Billing_System)
+
+---
+
+### 🌱 Spring Boot Bootcamp - Backend Engineering Practice
+> Comprehensive **Spring Boot 3 & Spring 6** hands-on learning repository covering REST APIs, JPA, Hibernate, Security, AOP, Thymeleaf, and MVC.
+
+The most structured backend engineering work in this profile - layered, scalable, and industry-aligned.
+
+📁 [GitHub Repository](https://github.com/Abtahi360/Bootcamp-with-Spring-by-Abtahi)
+
+---
+
+## 🗂️ All Projects by Category
 
 <details>
-  <summary><b>More in this cluster</b></summary>
+<summary><b>🤖 AI, NLP & Machine Learning</b></summary>
 
-* portfolio-website | Personal portfolio with project and resume sections
-  [https://github.com/Abtahi360/portfolio-website](https://github.com/Abtahi360/portfolio-website)
-* learning-web-technologies-spring2025-2026-sec-a | Web technology course practice in HTML, CSS, JavaScript, and PHP
-  [https://github.com/Abtahi360/learning-web-technologies-spring2025-2026-sec-a](https://github.com/Abtahi360/learning-web-technologies-spring2025-2026-sec-a)
+| Project | Description | Stack |
+|---|---|---|
+| [AgriBot v4](https://github.com/Abtahi360) | Multi-model AI chatbot for agriculture | XGBoost, BERT, EfficientNetB0, YOLOv8n, Python |
+| [Presento](https://github.com/Abtahi360/Presento-AI-Powered-Multimodal-Presentation-Skill-Assessment) | Multimodal presentation assessment | Deep Learning, NLP, Python |
+| [Trigram Language Model](https://github.com/Abtahi360/Trigram-Language-Model-with-Story-Generation) | N-gram text generation without libraries | Python, NLP |
+| [Cat vs Dog CNN](https://github.com/Abtahi360/Cat-vs-Dog-Image-Classification-using-Convolutional-Neural-Network-CNN) | Binary image classification | TensorFlow, Keras, CNN |
+| [Brain Tumor MRI Segmentation](https://github.com/Abtahi360/A-Comparative-Study-of-Keras-Models-for-Brain-Tumor-MRI-Segmentation) | Comparative Keras model study | Transfer Learning, TensorFlow |
+| [Learning R for Data Science](https://github.com/Abtahi360/learning-r-for-data-science) | Data analysis practice in R | R, ggplot2, tidyverse |
+
+</details>
+
+<details>
+<summary><b>🌐 Web Development & Full-Stack</b></summary>
+
+| Project | Description | Stack |
+|---|---|---|
+| [Web Tech Group Project](https://github.com/Abtahi360/learning-web-technologies-spring2025-2026-sec-a) | PHP MVC e-commerce system | PHP, MySQL, AJAX, JS |
+| [Portfolio Website](https://github.com/Abtahi360/portfolio-website) | Personal portfolio | HTML, CSS, JavaScript, PHP |
+| [Tic-Tac-Toe Game](https://github.com/Abtahi360/Tic-Tac-Toe-Game) | Browser-based game | JavaScript, HTML, CSS |
+
+</details>
+
+<details>
+<summary><b>☕ Spring Boot & Backend Engineering</b></summary>
+
+| Project | Description | Stack |
+|---|---|---|
+| [Spring Boot Bootcamp](https://github.com/Abtahi360/Bootcamp-with-Spring-by-Abtahi) | REST, JPA, Security, AOP, MVC practice | Spring Boot 3, Hibernate, MySQL |
+
+</details>
+
+<details>
+<summary><b>🖥️ Desktop Applications</b></summary>
+
+| Project | Description | Stack |
+|---|---|---|
+| [Electricity Billing System](https://github.com/Abtahi360/Electricity_Billing_System) | Billing & admin management | Java Swing, MySQL |
+| [Boi Jatra](https://github.com/Abtahi360/Boi_Jatra) | Bookstore cart & checkout | Java Swing |
+| [Stopwatch Timer](https://github.com/Abtahi360/Stopwatch_Timer) | Stopwatch with history & themes | Java Swing |
+| [Amusement Park Project](https://github.com/Abtahi360/Amusement-Park-Project) | Themed management application | C# WinForms |
+
+</details>
+
+<details>
+<summary><b>⚙️ Systems, Logic & Networking</b></summary>
+
+| Project | Description | Stack |
+|---|---|---|
+| [Network Topology Simulation](https://github.com/Abtahi360/Network-Topology-Simulation-with-Cisco-Packet-Tracer) | Network design & simulation | Cisco Packet Tracer |
+| [Beginner Network Simulation](https://github.com/Abtahi360/Beginner-Friendly-Network-Simulation-with-Cisco-Packet-Tracer) | Beginner-level topology practice | Cisco Packet Tracer |
+| [C Expression Validator](https://github.com/Abtahi360/C-Expression-Validator-Arithmetic-Unary-Expression-Checker) | Arithmetic expression checker | C++ |
+| [Matrix Operations](https://github.com/Abtahi360/MatrixOperations) | Matrix search & file handling | C++ |
+| [Linear Search Data Processor](https://github.com/Abtahi360/LinearSearchDataProcessor) | Search & data processing | C++ |
+| [Electrical Circuit Diagrams](https://github.com/Abtahi360/Showcasing-electrical-circuit-diagrams-designed-in-AutoCAD-2007) | Technical circuit documentation | AutoCAD |
+
+</details>
+
+<details>
+<summary><b>🎮 Python Games & Fun Projects</b></summary>
+
+| Project | Description | Stack |
+|---|---|---|
+| [Treasure Island Adventure Game](https://github.com/Abtahi360/Treasure-Island-Adventure-Game) | Text-based branching adventure | Python |
+| [Love Calculator](https://github.com/Abtahi360/Love_Calculator) | String-based compatibility game | Python |
+| [Python Pizza Deliveries](https://github.com/Abtahi360/Python_Pizza_Deliveries) | Custom ordering system | Python |
 
 </details>
 
 ---
 
-## Desktop Apps & Productivity Tools
+## 🎯 What I'm About
 
-> User-friendly desktop software with practical flows, clean UI, and focused functionality.
+```text
+Backend-first thinking     ████████████████░░░░  80%
+AI & NLP Systems           ███████████████░░░░░  75%
+Full-Stack Web Dev         ██████████████░░░░░░  70%
+Data Science & ML          █████████████░░░░░░░  65%
+Computer Vision            ████████████░░░░░░░░  60%
+```
 
-Top picks:
-
-* **Electricity_Billing_System** | Desktop billing app with multiple modules and administration tools.
-  [https://github.com/Abtahi360/Electricity_Billing_System](https://github.com/Abtahi360/Electricity_Billing_System)
-* **Boi_Jatra** | Bookstore management app with cart and checkout flow.
-  [https://github.com/Abtahi360/Boi_Jatra](https://github.com/Abtahi360/Boi_Jatra)
-* **Stopwatch_Timer** | Stopwatch with history tracking and theme switching.
-  [https://github.com/Abtahi360/Stopwatch_Timer](https://github.com/Abtahi360/Stopwatch_Timer)
-
-<details>
-  <summary><b>More in this cluster</b></summary>
-
-* Amusement-Park-Project | C# project work for a themed application
-  [https://github.com/Abtahi360/Amusement-Park-Project](https://github.com/Abtahi360/Amusement-Park-Project)
-* Showcasing-electrical-circuit-diagrams-designed-in-AutoCAD-2007 | Technical design documentation and diagrams
-  [https://github.com/Abtahi360/Showcasing-electrical-circuit-diagrams-designed-in-AutoCAD-2007](https://github.com/Abtahi360/Showcasing-electrical-circuit-diagrams-designed-in-AutoCAD-2007)
-
-</details>
+- 🔭 Currently working on: **AI-powered tools** and **full-stack web systems**
+- 🌱 Learning: Advanced NLP, system design, and cloud deployment
+- 🤝 Open to: **Backend roles**, **AI/ML projects**, **research collaborations**, and **open-source contributions**
+- 🎓 Student at: **AIUB (American International University–Bangladesh)**, CSE
 
 ---
 
-## Data Science, ML & Research Work
+## 📬 Let's Connect
 
-> Turning data into analysis, experiments, and measurable insights.
-
-Top picks:
-
-* **A-Comparative-Study-of-Keras-Models-for-Brain-Tumor-MRI-Segmentation** | Comparative deep learning study using TensorFlow and transfer learning.
-  [https://github.com/Abtahi360/A-Comparative-Study-of-Keras-Models-for-Brain-Tumor-MRI-Segmentation](https://github.com/Abtahi360/A-Comparative-Study-of-Keras-Models-for-Brain-Tumor-MRI-Segmentation)
-* **Cat-vs-Dog-Image-Classification-using-Convolutional-Neural-Network-CNN** | CNN-based binary image classification project.
-  [https://github.com/Abtahi360/Cat-vs-Dog-Image-Classification-using-Convolutional-Neural-Network-CNN](https://github.com/Abtahi360/Cat-vs-Dog-Image-Classification-using-Convolutional-Neural-Network-CNN)
-* **learning-r-for-data-science** | Data science practice tasks using R.
-  [https://github.com/Abtahi360/learning-r-for-data-science](https://github.com/Abtahi360/learning-r-for-data-science)
-* **Trigram-Language-Model-with-Story-Generation** | building a trigram-based text generator without using any built-in n-gram libraries.
-  [https://github.com/Abtahi360/Trigram-Language-Model-with-Story-Generation](https://github.com/Abtahi360/Trigram-Language-Model-with-Story-Generation)
-
-<details>
-  <summary><b>More in this cluster</b></summary>
-
-* SPSS Research Projects | Chi-square tests, cross-tabs, and descriptive statistics
-  [https://github.com/Abtahi360](https://github.com/Abtahi360)
-* Presento-AI-Powered-Multimodal-Presentation-Skill-Assessment | AI-based assessment project
-  [https://github.com/Abtahi360/Presento-AI-Powered-Multimodal-Presentation-Skill-Assessment](https://github.com/Abtahi360/Presento-AI-Powered-Multimodal-Presentation-Skill-Assessment)
-
-</details>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abtahi-islam/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://abtahiislam.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:23-50434-1@student.aiub.edu">
+    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## Python Games & Fun Projects
+<p align="center">
+  <i>"I enjoy turning ideas into reliable software, practical AI tools, and learning-focused projects - <br/>one meaningful commit at a time."</i>
+</p>
 
-> Lightweight projects that make learning interactive and enjoyable.
-
-Top picks:
-
-* **Treasure-Island-Adventure-Game** | A text-based adventure game with branching choices.
-  [https://github.com/Abtahi360/Treasure-Island-Adventure-Game](https://github.com/Abtahi360/Treasure-Island-Adventure-Game)
-* **Love_Calculator** | A playful string-based compatibility calculator.
-  [https://github.com/Abtahi360/Love_Calculator](https://github.com/Abtahi360/Love_Calculator)
-* **Python_Pizza_Deliveries** | A simple ordering system with customizable delivery options.
-  [https://github.com/Abtahi360/Python_Pizza_Deliveries](https://github.com/Abtahi360/Python_Pizza_Deliveries)
-
----
-
-## Web Development & Portfolio
-
-> Learning and showcasing web fundamentals through course work and personal presentation.
-
-Top picks:
-
-* **portfolio-website** | Personal portfolio built with HTML, CSS, and JavaScript.
-  [https://github.com/Abtahi360/portfolio-website](https://github.com/Abtahi360/portfolio-website)
-* **learning-web-technologies-spring2025-2026-sec-a** | Course tasks and practice problems in web development.
-  [https://github.com/Abtahi360/learning-web-technologies-spring2025-2026-sec-a](https://github.com/Abtahi360/learning-web-technologies-spring2025-2026-sec-a)
-* **Tic-Tac-Toe-Game** | JavaScript game project.
-  [https://github.com/Abtahi360/Tic-Tac-Toe-Game](https://github.com/Abtahi360/Tic-Tac-Toe-Game)
-
-<details>
-  <summary><b>More in this cluster</b></summary>
-
-* demo | Small practice repository
-  [https://github.com/Abtahi360/demo](https://github.com/Abtahi360/demo)
-* sss | Small practice repository
-  [https://github.com/Abtahi360/sss](https://github.com/Abtahi360/sss)
-
-</details>
-
----
-
-## Computer Vision & Deep Learning
-
-> Experimenting with image-based models, transfer learning, and classification pipelines.
-
-Top picks:
-
-* **A-Comparative-Study-of-Keras-Models-for-Brain-Tumor-MRI-Segmentation** | Pretrained Keras models for medical image classification.
-  [https://github.com/Abtahi360/A-Comparative-Study-of-Keras-Models-for-Brain-Tumor-MRI-Segmentation](https://github.com/Abtahi360/A-Comparative-Study-of-Keras-Models-for-Brain-Tumor-MRI-Segmentation)
-* **Cat-vs-Dog-Image-Classification-using-Convolutional-Neural-Network-CNN** | CNN workflow for image classification.
-  [https://github.com/Abtahi360/Cat-vs-Dog-Image-Classification-using-Convolutional-Neural-Network-CNN](https://github.com/Abtahi360/Cat-vs-Dog-Image-Classification-using-Convolutional-Neural-Network-CNN)
-
----
-
-## Networking, Logic & Systems Practice
-
-> Coursework and technical exercises focused on simulation, validation, and problem solving.
-
-* **Network-Topology-Simulation-with-Cisco-Packet-Tracer** | Cisco Packet Tracer-based topology simulation.
-  [https://github.com/Abtahi360/Network-Topology-Simulation-with-Cisco-Packet-Tracer](https://github.com/Abtahi360/Network-Topology-Simulation-with-Cisco-Packet-Tracer)
-* **Beginner-Friendly-Network-Simulation-with-Cisco-Packet-Tracer** | Beginner-level network simulation practice.
-  [https://github.com/Abtahi360/Beginner-Friendly-Network-Simulation-with-Cisco-Packet-Tracer](https://github.com/Abtahi360/Beginner-Friendly-Network-Simulation-with-Cisco-Packet-Tracer)
-* **C-Expression-Validator-Arithmetic-Unary-Expression-Checker** | C++ expression validation and checking.
-  [https://github.com/Abtahi360/C-Expression-Validator-Arithmetic-Unary-Expression-Checker](https://github.com/Abtahi360/C-Expression-Validator-Arithmetic-Unary-Expression-Checker)
-* **LinearSearchDataProcessor** | C++ linear search and data handling practice.
-  [https://github.com/Abtahi360/LinearSearchDataProcessor](https://github.com/Abtahi360/LinearSearchDataProcessor)
-* **MatrixOperations** | Matrix operations, search, and file handling in C++.
-  [https://github.com/Abtahi360/MatrixOperations](https://github.com/Abtahi360/MatrixOperations)
-
----
-
-> “I enjoy turning ideas into reliable software, practical tools, and learning-focused projects.”
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+</p>
