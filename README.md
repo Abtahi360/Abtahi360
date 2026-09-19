@@ -66,7 +66,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Abtahi360&theme=tokyonight&hide_border=true" height="165"/>
 </p>
----
 
 ## 🚀 Featured Projects
 
